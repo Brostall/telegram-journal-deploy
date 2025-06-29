@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/static/js/main.aad3bf1e.js",
-    "static/media/LogoSKFET.png": "/static/media/LogoSKFET.864e56155444e92beb39.png",
-    "index.html": "/index.html",
-    "main.aad3bf1e.js.map": "/static/js/main.aad3bf1e.js.map"
+    "main.js": "/telegram-journal-deploy/static/js/main.ce53bfa6.js",
+    "static/media/LogoSKFET.png": "/telegram-journal-deploy/static/media/LogoSKFET.864e56155444e92beb39.png",
+    "index.html": "/telegram-journal-deploy/index.html",
+    "main.ce53bfa6.js.map": "/telegram-journal-deploy/static/js/main.ce53bfa6.js.map"
   },
   "entrypoints": [
-    "static/js/main.aad3bf1e.js"
+    "static/js/main.ce53bfa6.js"
   ]
 }
